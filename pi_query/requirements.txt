@@ -3,4 +3,3 @@ celery
 uvicorn
 pydantic
 flower
-mpmath
