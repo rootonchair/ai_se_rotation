@@ -42,4 +42,4 @@ uvicorn main:app --reload
 
 ### Query
 
-Visit ![http://localhost:8000/docs](http://localhost:8000/docs) to make query
+Visit [http://localhost:8000/docs](http://localhost:8000/docs) to make query
