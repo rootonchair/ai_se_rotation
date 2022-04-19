@@ -12,6 +12,8 @@ def calcPi(limit):  # Generator function
     """
     Prints out the digits of PI
     until it reaches the given limit
+
+    Ref: https://www.w3resource.com/projects/python/python-projects-1.php
     """
 
     q, r, t, k, n, l = 1, 0, 1, 1, 3, 3
